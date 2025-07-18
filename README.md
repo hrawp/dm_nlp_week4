@@ -1,5 +1,10 @@
 # Requests, JSON, and basic NLP with spaCy
 
+In this weeks project.  I connected to an API for music lyrics.  In my first function I brought in the JSON and wrote it to a file.  I just called the function indiviudally four times since the API call did not always work.  I did this for four songs by the Beatles. 
+
+In my second function I opened each file and printed the lyrics along with a polarity and subjectvity score.  I called the function four times for the four songs. 
+
+
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
